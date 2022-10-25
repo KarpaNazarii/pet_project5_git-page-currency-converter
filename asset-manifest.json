@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pet_project5_git-page-currency-converter/static/css/main.3e42c85a.css",
-    "main.js": "/pet_project5_git-page-currency-converter/static/js/main.c6bc0d49.js",
+    "main.js": "/pet_project5_git-page-currency-converter/static/js/main.4accd270.js",
     "index.html": "/pet_project5_git-page-currency-converter/index.html",
     "main.3e42c85a.css.map": "/pet_project5_git-page-currency-converter/static/css/main.3e42c85a.css.map",
-    "main.c6bc0d49.js.map": "/pet_project5_git-page-currency-converter/static/js/main.c6bc0d49.js.map"
+    "main.4accd270.js.map": "/pet_project5_git-page-currency-converter/static/js/main.4accd270.js.map"
   },
   "entrypoints": [
     "static/css/main.3e42c85a.css",
-    "static/js/main.c6bc0d49.js"
+    "static/js/main.4accd270.js"
   ]
 }
